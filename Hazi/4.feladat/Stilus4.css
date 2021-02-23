@@ -1,0 +1,39 @@
+ul{ 
+    padding: 1cm 0 0 0;
+    border: 20px dotted green;
+    height: 2cm;
+    width: 50%;
+    list-style: none;
+}
+
+#a{
+    width: 25%;
+    text-align: center;
+    list-style: none;
+    background-color: lightseagreen;
+   
+}
+
+#b{
+    width: 75%;
+    text-align: center;
+    list-style: none;
+    background-color: lightseagreen;
+    
+}
+
+#c{
+    width: 75%;
+    text-align: center;
+    list-style: none;
+    background-color: lightseagreen;
+   
+}
+
+#d{
+    width: 100%;
+    text-align: center;
+    list-style: none;
+    background-color: lightseagreen;
+    
+}
